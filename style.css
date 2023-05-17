@@ -16,7 +16,7 @@ main{
 form{
     display: block;
     font-size: 20px;
-    margin: 0 0 10px
+    margin: 0 0 10px;
 }
 
 .btn:hover{
